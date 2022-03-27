@@ -37,7 +37,7 @@ Selanjutnya simpan perubahan yang ada, dan lakukan refresh pada browser untuk me
 
 TUGAS
 
-1.  Buatlah form yang menampilkan dropdown menu dan listbox dengan multiple selection, dengan cara menambahkan multiple ="multiple" pada tag <select>
+1.  Buatlah form yang menampilkan dropdown menu dan listbox dengan multiple selection
 ![image](https://user-images.githubusercontent.com/101665497/160271110-8e3f8619-c4fc-4e9e-b128-4eb4269b08c5.png)
 ![image](https://user-images.githubusercontent.com/101665497/160271353-e3fad0f5-328d-4088-a167-833be388cc7b.png)
 
