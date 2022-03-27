@@ -4,6 +4,10 @@ Nim     : 312010035
 
 Kelas   : TI.20.D1
 
+Tugas Pertemuan 4
+
+PRATIKUM 3
+
 1. Membuat Dokumen Html seperti berikut
 ![image](https://user-images.githubusercontent.com/101665497/160268245-d8b656a6-62fd-4080-a032-3a6bc626e942.png)
 selanjutnya buka pada browser web untuk melihat hasilnya
