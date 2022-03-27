@@ -4,7 +4,6 @@ Nim     : 312010035
 
 Kelas   : TI.20.D1
 
-
 1. Membuat Dokumen Html seperti berikut
 ![image](https://user-images.githubusercontent.com/101665497/160268245-d8b656a6-62fd-4080-a032-3a6bc626e942.png)
 selanjutnya buka pada browser web untuk melihat hasilnya
@@ -38,10 +37,10 @@ Selanjutnya simpan perubahan yang ada, dan lakukan refresh pada browser untuk me
 
 TUGAS
 
-Buatlah form yang menampilkan dropdown menu dan listbox dengan multiple selection
+1.  Buatlah form yang menampilkan dropdown menu dan listbox dengan multiple selection
 ![image](https://user-images.githubusercontent.com/101665497/160271110-8e3f8619-c4fc-4e9e-b128-4eb4269b08c5.png)
 
-dengan cara menambahkan multiple ="multiple" pada tag <select>
+2. dengan cara menambahkan multiple ="multiple" pada tag <select>
 ![image](https://user-images.githubusercontent.com/101665497/160271150-5cb09284-4bf4-4f6b-8faf-e6f1adcde7c1.png)
 
 
